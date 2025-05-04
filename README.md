@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Oficina Mecânica
 
-![Oficina Mecânica](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=200&width=600)
+![Oficina Mecânica]
 
 Um sistema web responsivo para gerenciamento de entrada e saída de veículos em oficinas mecânicas, com registro de informações como placa, quilometragem, seguradora, serviço a ser realizado e dados do cliente.
 
