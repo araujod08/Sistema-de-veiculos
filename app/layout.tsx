@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Sistema de Gerenciamento de Oficina",
   description: "Sistema para gerenciamento de entrada e saída de veículos em oficina mecânica",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
